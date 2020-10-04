@@ -1,2 +1,2 @@
-# C21-Bullets-and-Walls
-Checking the effectiveness of walls against bullets.
+# p5.play-boilerplate
+Boiler plate for p5.play
