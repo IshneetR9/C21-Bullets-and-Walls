@@ -25,11 +25,11 @@ function draw() {
     damage = (0.5*weight*speed*speed)/(thickness*thickness*thickness);
   if (damage<=10)
   {
-    bullet.shapeColor = "green";
+    wall.shapeColor = "green";
   }
   else
   {
-    bullet.shapeColor = "red";
+    wall.shapeColor = "red";
   }
 }
   drawSprites();
